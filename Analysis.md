@@ -214,7 +214,8 @@ Most active hours are during work hours of 10 am to 2pm. There is a decline in i
 > ggplot(data=activity, aes(x=VeryActiveMinutes, y=Calories)) +
 > +geom_point() + geom_smooth() +
 > +labs(title="Very Active Minutes vs. Calories")
-![Sedentary vs calories resized](https://github.com/LaneanL/R-Programming-Projects/assets/132226337/e5906b9e-4f75-4c60-b806-2f77d05a9970)  ![VeryActiveMin vs Calories resized](https://github.com/LaneanL/R-Programming-Projects/assets/132226337/73d5da2b-167c-45be-bfa1-b14a82d18265) 
+![Sedentary vs calories resized](https://github.com/LaneanL/R-Programming-Projects/assets/132226337/e5906b9e-4f75-4c60-b806-2f77d05a9970)
+![VeryActiveMin vs Calories resized](https://github.com/LaneanL/R-Programming-Projects/assets/132226337/73d5da2b-167c-45be-bfa1-b14a82d18265) 
 
 Findings:
 Sedentary Minutes vs. Calories
