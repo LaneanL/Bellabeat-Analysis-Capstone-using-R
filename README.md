@@ -1,4 +1,4 @@
-# Bellabeat Analysis Project
+# Bellabeat Analysis Project using R Programming
 
 Google Analytics Capstone Project using Fitbit data
 
