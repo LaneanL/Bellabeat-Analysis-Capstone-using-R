@@ -234,3 +234,4 @@ Based on the data the sedentary minutes are consistent with women working an 8 h
 * Encourage workout notifications and badges with evening and weekend workouts.
 * Offer community shares celebrating daily/monthly goals.
 * Offer the ability to challenge/competitions with others such as steps, calories, floors climbed, quality sleep score, and water intake.
+* Promote the Spring water bottle to efficienly/conveniently track water intake that synchronizes with the Bellabeat app.
