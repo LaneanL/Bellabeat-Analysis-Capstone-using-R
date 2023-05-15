@@ -10,7 +10,7 @@ Sršen used her background as an artist to develop beautifully designed technolo
 the world. Collecting data on activity, sleep, stress, and reproductive health has allowed Bellabeat to empower women with
 knowledge about their own health and habits. Since it was founded in 2013, Bellabeat has grown rapidly and quickly
 positioned itself as a tech-driven wellness company for women.
-   Thirty eligible Fitbit users consented to the submission of
+   Thirty-three eligible Fitbit users consented to the submission of
 personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. It includes
 information about daily activity, steps, and heart rate that can be used to explore users’ habits
 
