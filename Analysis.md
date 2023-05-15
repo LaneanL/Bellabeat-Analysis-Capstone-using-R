@@ -58,66 +58,66 @@ separate date
 
 separate time
 >  calories$ActivityHour=as.POSIXct(calories$ActivityHour, format="%m/%d/%Y %I:%M:%S %p", tz=Sys.timezone())
->  calories$time <- format(calories$ActivityHour, format = "%H:%M:%S")  --> -->
+>  calories$time <- format(calories$ActivityHour, format = "%H:%M:%S")
 
-> hrRate$Date <- as.Date(hrRate$Time) -->
-> hrRate$Time=as.POSIXct(hrRate$Time, format="%m/%d/%Y %I:%M:%S %p", tz=Sys.timezone()) -->
-> hrRate$Time <- format(hrRate$Time, format = "%H:%M:%S") -->
+> hrRate$Date <- as.Date(hrRate$Time)
+> hrRate$Time=as.POSIXct(hrRate$Time, format="%m/%d/%Y %I:%M:%S %p", tz=Sys.timezone())
+> hrRate$Time <- format(hrRate$Time, format = "%H:%M:%S")
 
 
 separate day
-> hrIntensities$ActivityHour=as.POSIXct(hrIntensities$ActivityHour, format="%m/%d/%Y %I:%M:%S %p", tz=Sys.timezone()) -->
-> hrIntensities$time <- format(hrIntensities$ActivityHour, format = "%H:%M:%S") -->> 
+> hrIntensities$ActivityHour=as.POSIXct(hrIntensities$ActivityHour, format="%m/%d/%Y %I:%M:%S %p", tz=Sys.timezone())
+> hrIntensities$time <- format(hrIntensities$ActivityHour, format = "%H:%M:%S") 
 > hrIntensities$Date <- format(hrIntensities$ActivityHour, format = "%m/%d/%y")
 
 
 
 ### Explore and Analyze Data
 
-> n_distinct(activity$Id)
-> n_distinct(calories$Id)
-> n_distinct(intensity$Id)
-> n_distinct(steps$Id)
+> n_distinct(activity$Id)  
+> n_distinct(calories$Id)  
+> n_distinct(intensity$Id)  
+> n_distinct(steps$Id)  
 > n_distinct(hrIntensities$Id)
-
-[1] 33
-[1] 33
-[1] 33
-[1] 33
-[1] 33
+>
+> [1] 33  
+> [1] 33  
+> [1] 33  
+> [1] 33  
+> [1] 33  
 
 ##### Summary Stats
 
-> activity %>%
-> +select(TotalSteps, TotalDistance, Calories) %>%
+> activity %>%  
+> +select(TotalSteps, TotalDistance, Calories) %>%  
 > +summary()
 >
->activity %>%
-> +select(SedentaryMinutes,LightlyActiveMinutes,FairlyActiveMinutes,VeryActiveMinutes) %>%
+>activity %>%  
+> +select(SedentaryMinutes,LightlyActiveMinutes,FairlyActiveMinutes,VeryActiveMinutes) %>%  
 > +summary()
 >
-> activity %>%
-> +select(SedentaryActiveDistance,LightActiveDistance,ModeratelyActiveDistance,VeryActiveDistance) %>%
+> activity %>%  
+> +select(SedentaryActiveDistance,LightActiveDistance,ModeratelyActiveDistance,VeryActiveDistance) %>%  
 > +summary()
 >
-> activity %>%
-> +select(Calories) %>%
+> activity %>%  
+> +select(Calories) %>%  
 > +summary()
 >
-> activity %>%
-> +select(TotalMinutesAsleep) %>% 
+> activity %>%  
+> +select(TotalMinutesAsleep) %>%  
 > +summary()
 >
 > weight %>%
 > +select(WeightPounds,BMI) %>%
 < +summary()
 >
-> mets %>%
-< +select(METs) %>%
+> mets %>%  
+< +select(METs) %>%  
 > +summary()
 >
-> hrRate %>%
-> +select(Value) %>%  #value=heart rate
+> hrRate %>%  
+> +select(Value) %>%  #value=heart rate  
 > +summary()
 >
 
