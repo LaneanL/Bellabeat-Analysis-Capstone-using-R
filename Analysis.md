@@ -29,7 +29,7 @@ positioned itself as a tech-driven wellness company for women
 3. How could these trends help influence Bellabeat marketing strategy?
 
 ### Prepare
-The data set contains personal fitness tracker from thirty fitbit users. Thirty eligible Fitbit users consented to the submission of
+The data set contains personal fitness tracker from thirty fitbit users. Thirty-three eligible Fitbit users consented to the submission of
 personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. It includes
 information about daily activity, steps, and heart rate that can be used to explore users’ habits.
 
