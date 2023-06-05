@@ -126,19 +126,14 @@ separate day
 
 ![activemin](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/3f621ae6-5da9-4960-8a14-aaf32c1ac027)
 
-
 ![Activedist 3](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/4c68c0b6-7043-4f39-9dce-ddeddb645666)
-
-
-![image](https://github.com/LaneanL/R-Programming-Projects/assets/132226337/c5d509b0-470f-4209-8a3f-41733a7e9577)   ![image](https://github.com/LaneanL/R-Programming-Projects/assets/132226337/1268999e-7518-4d50-a754-fd49bac2634f)   ![image](https://github.com/LaneanL/R-Programming-Projects/assets/132226337/63443a96-6c3c-4b20-900d-ff888a18bcd5)
 
 ![Calories](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/866209f5-f527-47ea-b198-3cc1d2fab1bc)  ![TotalSleep](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/5614bf68-87ca-4450-8909-0898c0edb575)  ![Weight](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/eb728a35-fb3c-40be-87e4-2eb401d1ff10)
 
+![METS](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/9b6cabae-d026-43a9-a819-98e60fe352d7)  ![HR](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/b497bb13-532f-4134-9bb4-5aac099731df)   ![TotalIntens](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/f9e7fd2b-d7a8-4eb7-9f88-bdef1dc76400)
 
+  
 
-
-
-![image](https://github.com/LaneanL/R-Programming-Projects/assets/132226337/1e90a5af-4268-4b43-896c-6b13f6292e27)  ![image](https://github.com/LaneanL/R-Programming-Projects/assets/132226337/66b9e21c-7b89-4b01-812a-d4ff769e36c6)   ![image](https://github.com/LaneanL/R-Programming-Projects/assets/132226337/edb8e83b-335c-4afe-bb61-19f49edeaf18)
 
 ##### Discovery from summaries
 
@@ -171,6 +166,8 @@ Plot
 > +labs(title="Average Total Steps vs. Dates")
 >
 ![Avg Steps vs Date](https://github.com/LaneanL/R-Programming-Projects/assets/132226337/fc873419-a54d-44cd-9300-886d9226de6f)
+![avgTotStepsvsDates](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/ab410920-826c-4303-bb7d-0aab7f1bcb64)
+
 
 Findings:
 Plot indicates users are below the recommended 10,000 steps averaging 7,638 steps per day.
@@ -186,6 +183,7 @@ Plot
 > +labs(title="Average Calories vs. Dates")
 >
 ![Avg Calories vs Date](https://github.com/LaneanL/R-Programming-Projects/assets/132226337/11bfd25d-a817-4c43-9a52-f370f00a1a6d)
+![avgCalvsDates](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/2dfdf39b-425f-4b04-86ad-4822b5ebfcdc)
 
 Findings:
 Assuming 2000 calories of consumption per day ( actual values depend on height, weight, age, and activity level), to maintain weight 2000 calories per day would also need to be burned to maintain weight. Based on the data, the average burned calories per day is 2,304.
