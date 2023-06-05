@@ -41,7 +41,8 @@ The data source used for our case study is FitBit Fitness Tracker Data. This dat
 > library((lubridate)
 > library(ggplot2)
 
-![image](https://github.com/LaneanL/R-Programming-Projects/assets/132226337/838ea6fb-7cbb-48d9-abec-0cf15ea2f637)
+![library Bellabeat](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/f1f5d12f-444f-4d4d-bf4b-d62a6f616962)
+
 
 ##### Read Files
 > activity<-read_csv("/cloud/project/Fitabase Data/dailyActivity_merged.csv")
@@ -122,10 +123,16 @@ separate day
 >
 
 ![image](https://github.com/LaneanL/R-Programming-Projects/assets/132226337/ed1712a5-f43a-4a8d-a892-5ab01ed8175e)
+![stepsdistcal 1](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/40bb3fce-7ff9-45d4-8888-ac63c93009c3)
+
 
 ![image](https://github.com/LaneanL/R-Programming-Projects/assets/132226337/6f5f2f62-7732-4268-9f2f-c7f5edbce65d)
+![activemin](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/3f621ae6-5da9-4960-8a14-aaf32c1ac027)
+
 
 ![image](https://github.com/LaneanL/R-Programming-Projects/assets/132226337/f395a71a-4c13-4a45-8e14-887722a1c5bf)
+![Activedist 3](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/4c68c0b6-7043-4f39-9dce-ddeddb645666)
+
 
 ![image](https://github.com/LaneanL/R-Programming-Projects/assets/132226337/c5d509b0-470f-4209-8a3f-41733a7e9577)   ![image](https://github.com/LaneanL/R-Programming-Projects/assets/132226337/1268999e-7518-4d50-a754-fd49bac2634f)   ![image](https://github.com/LaneanL/R-Programming-Projects/assets/132226337/63443a96-6c3c-4b20-900d-ff888a18bcd5)
 
