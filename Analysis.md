@@ -122,19 +122,21 @@ separate day
 > +summary()
 >
 
-![image](https://github.com/LaneanL/R-Programming-Projects/assets/132226337/ed1712a5-f43a-4a8d-a892-5ab01ed8175e)
 ![stepsdistcal 1](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/40bb3fce-7ff9-45d4-8888-ac63c93009c3)
 
-
-![image](https://github.com/LaneanL/R-Programming-Projects/assets/132226337/6f5f2f62-7732-4268-9f2f-c7f5edbce65d)
 ![activemin](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/3f621ae6-5da9-4960-8a14-aaf32c1ac027)
 
 
-![image](https://github.com/LaneanL/R-Programming-Projects/assets/132226337/f395a71a-4c13-4a45-8e14-887722a1c5bf)
 ![Activedist 3](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/4c68c0b6-7043-4f39-9dce-ddeddb645666)
 
 
 ![image](https://github.com/LaneanL/R-Programming-Projects/assets/132226337/c5d509b0-470f-4209-8a3f-41733a7e9577)   ![image](https://github.com/LaneanL/R-Programming-Projects/assets/132226337/1268999e-7518-4d50-a754-fd49bac2634f)   ![image](https://github.com/LaneanL/R-Programming-Projects/assets/132226337/63443a96-6c3c-4b20-900d-ff888a18bcd5)
+
+![Calories](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/866209f5-f527-47ea-b198-3cc1d2fab1bc)  ![TotalSleep](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/5614bf68-87ca-4450-8909-0898c0edb575)  ![Weight](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/eb728a35-fb3c-40be-87e4-2eb401d1ff10)
+
+
+
+
 
 ![image](https://github.com/LaneanL/R-Programming-Projects/assets/132226337/1e90a5af-4268-4b43-896c-6b13f6292e27)  ![image](https://github.com/LaneanL/R-Programming-Projects/assets/132226337/66b9e21c-7b89-4b01-812a-d4ff769e36c6)   ![image](https://github.com/LaneanL/R-Programming-Projects/assets/132226337/edb8e83b-335c-4afe-bb61-19f49edeaf18)
 
