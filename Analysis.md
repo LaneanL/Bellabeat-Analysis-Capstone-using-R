@@ -165,7 +165,6 @@ Plot
 > +theme(axis.text.x = element_text(angle = 90)) +
 > +labs(title="Average Total Steps vs. Dates")
 >
-![Avg Steps vs Date](https://github.com/LaneanL/R-Programming-Projects/assets/132226337/fc873419-a54d-44cd-9300-886d9226de6f)
 ![avgTotStepsvsDates](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/ab410920-826c-4303-bb7d-0aab7f1bcb64)
 
 
@@ -182,7 +181,6 @@ Plot
 > +theme(axis.text.x = element_text(angle = 90)) +
 > +labs(title="Average Calories vs. Dates")
 >
-![Avg Calories vs Date](https://github.com/LaneanL/R-Programming-Projects/assets/132226337/11bfd25d-a817-4c43-9a52-f370f00a1a6d)
 ![avgCalvsDates](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/2dfdf39b-425f-4b04-86ad-4822b5ebfcdc)
 
 Findings:
