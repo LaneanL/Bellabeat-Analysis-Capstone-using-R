@@ -197,8 +197,6 @@ Plot
 > +geom_point() + geom_smooth() +
 > +labs(title="Total Steps vs. Calories")
 >
-![Steps vs calories resized](https://github.com/LaneanL/R-Programming-Projects/assets/132226337/4780938f-f1dc-4820-9d0c-779091d79030)
-![Steps vs calories](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/996335f3-0c50-4b12-979f-066db0300cbf)
 ![StepsvsCal](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/f13a7737-f290-4018-aee6-d2b8c5d11fc3)
 
 
@@ -209,7 +207,6 @@ Plot
 > +theme(axis.text.x = element_text(angle = 90)) +
 > +labs(title="Average Intensity vs. Time") 
 >
-![avg Intensity vs Time](https://github.com/LaneanL/R-Programming-Projects/assets/132226337/82e2d072-24ce-43df-9d59-0859a0aeced9)
 ![IntensityvsTime](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/c3af97e4-98f3-463e-ac3c-f6d2a467afe0)
 
 
@@ -221,7 +218,6 @@ Most active hours are during work hours of 10 am to 2pm. There is a decline in i
 > +geom_point() + geom_smooth() +
 > +labs(title="Sedentary Minutes vs. Calories")
 >
-![Sedentary vs calories resized](https://github.com/LaneanL/R-Programming-Projects/assets/132226337/e5906b9e-4f75-4c60-b806-2f77d05a9970)
 ![SedMinvsCal](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/876c9bdb-9d88-4200-a9f1-65c8cc2ddcfd)
 
 
@@ -230,8 +226,7 @@ Most active hours are during work hours of 10 am to 2pm. There is a decline in i
 > ggplot(data=activity, aes(x=VeryActiveMinutes, y=Calories)) +
 > +geom_point() + geom_smooth() +
 > +labs(title="Very Active Minutes vs. Calories")
->
-![VeryActiveMin vs Calories resized](https://github.com/LaneanL/R-Programming-Projects/assets/132226337/73d5da2b-167c-45be-bfa1-b14a82d18265) 
+> 
 ![VAMinvsCal](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/f01ed0d6-eeb0-47d2-aae9-fd067327141b)
 
 Findings:
