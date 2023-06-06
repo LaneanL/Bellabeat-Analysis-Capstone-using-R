@@ -164,7 +164,7 @@ Plot
 > +theme(axis.text.x = element_text(angle = 90)) +
 > +labs(title="Average Total Steps vs. Dates")
 >
-![avgTotStepsvsDates](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/ab410920-826c-4303-bb7d-0aab7f1bcb64)
+![avgTotStepsvsDates](imagesBellabeat/avgTotStepsvsDates.png)
 
 
 Findings:
@@ -180,7 +180,7 @@ Plot
 > +theme(axis.text.x = element_text(angle = 90)) +
 > +labs(title="Average Calories vs. Dates")
 >
-![avgCalvsDates](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/2dfdf39b-425f-4b04-86ad-4822b5ebfcdc)
+![avgCalvsDates](imagesBellabeat/avgCalvsDates.png)
 
 Findings:
 Assuming 2000 calories of consumption per day ( actual values depend on height, weight, age, and activity level), to maintain weight 2000 calories per day would also need to be burned to maintain weight. Based on the data, the average burned calories per day is 2,304.
@@ -196,9 +196,7 @@ Plot
 > +geom_point() + geom_smooth() +
 > +labs(title="Total Steps vs. Calories")
 >
-![StepsvsCal](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/f13a7737-f290-4018-aee6-d2b8c5d11fc3)
-
-
+![StepsvsCal](imagesBellabeat/StepsvsCal.png)
 
 
 *Intensity vs. Time
@@ -206,7 +204,7 @@ Plot
 > +theme(axis.text.x = element_text(angle = 90)) +
 > +labs(title="Average Intensity vs. Time") 
 >
-![IntensityvsTime](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/c3af97e4-98f3-463e-ac3c-f6d2a467afe0)
+![IntensityvsTime](imagesBellabeat/IntensityvsTime.png)
 
 
 Findings:
@@ -217,7 +215,7 @@ Most active hours are during work hours of 10 am to 2pm. There is a decline in i
 > +geom_point() + geom_smooth() +
 > +labs(title="Sedentary Minutes vs. Calories")
 >
-![SedMinvsCal](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/876c9bdb-9d88-4200-a9f1-65c8cc2ddcfd)
+![SedMinvsCal](imagesBellabeat/SedMinvsCal.png)
 
 
 *Very Active Minutes vs Calories
@@ -226,7 +224,7 @@ Most active hours are during work hours of 10 am to 2pm. There is a decline in i
 > +geom_point() + geom_smooth() +
 > +labs(title="Very Active Minutes vs. Calories")
 > 
-![VAMinvsCal](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/f01ed0d6-eeb0-47d2-aae9-fd067327141b)
+![VAMinvsCal](imagesBellabeat/VAMinvsCal.png)
 
 Findings:
 Sedentary Minutes vs. Calories
