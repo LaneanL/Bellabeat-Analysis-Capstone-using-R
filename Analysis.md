@@ -42,7 +42,7 @@ The data source used for our case study is FitBit Fitness Tracker Data. This dat
 > library(ggplot2)
 
 ![library Bellabeat](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/f1f5d12f-444f-4d4d-bf4b-d62a6f616962)
-![library Bellabeat](imagesBellabeat/library Bellabeat.png)
+![library Bellabeat](imagesBellabeat/libraryB.png)
 
 ##### Read Files
 > activity<-read_csv("/cloud/project/Fitabase Data/dailyActivity_merged.csv")
