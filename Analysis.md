@@ -121,9 +121,10 @@ separate day
 > +summary()
 >
 
-![stepsdistcal 1](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/40bb3fce-7ff9-45d4-8888-ac63c93009c3)
+![steps](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/blob/794529d772ae2bec79127f4803acd8f19f5e6a77/imagesBellabeat/stepsdistcal%201.png)
 
-![activemin](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/3f621ae6-5da9-4960-8a14-aaf32c1ac027)
+
+![activemin]([https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/3f621ae6-5da9-4960-8a14-aaf32c1ac027](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/blob/794529d772ae2bec79127f4803acd8f19f5e6a77/imagesBellabeat/activemin.png))
 
 ![Activedist 3](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/4c68c0b6-7043-4f39-9dce-ddeddb645666)
 
