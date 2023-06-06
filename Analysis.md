@@ -123,11 +123,11 @@ separate day
 
 ![steps](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/blob/794529d772ae2bec79127f4803acd8f19f5e6a77/imagesBellabeat/stepsdistcal%201.png)
 
-![activemin]([https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/3f621ae6-5da9-4960-8a14-aaf32c1ac027](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/blob/794529d772ae2bec79127f4803acd8f19f5e6a77/imagesBellabeat/activemin.png))
+![activemin](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/blob/794529d772ae2bec79127f4803acd8f19f5e6a77/imagesBellabeat/activemin.png))
 
-![Activedist 3]([https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/4c68c0b6-7043-4f39-9dce-ddeddb645666](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/blob/2949e3c1d058e6ac8a0b8d419d8a0504d7f204ac/imagesBellabeat/Activedist%203.png))
+![Activedist 3](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/blob/2949e3c1d058e6ac8a0b8d419d8a0504d7f204ac/imagesBellabeat/Activedist%203.png))
 
-![Calories](imagesBellabeat/Calories.png)  ![TotalSleep](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/5614bf68-87ca-4450-8909-0898c0edb575)  ![Weight](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/eb728a35-fb3c-40be-87e4-2eb401d1ff10)
+![Calories](imagesBellabeat/Calories.png)  ![TotalSleep](imagesBellabeat/TotalSleep.png)  ![Weight](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/eb728a35-fb3c-40be-87e4-2eb401d1ff10)
 
 ![METS](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/9b6cabae-d026-43a9-a819-98e60fe352d7)  ![HR](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/b497bb13-532f-4134-9bb4-5aac099731df)   ![TotalIntens](https://github.com/LaneanL/Bellabeat-Analysis-Capstone-using-R/assets/132226337/f9e7fd2b-d7a8-4eb7-9f88-bdef1dc76400)
 
