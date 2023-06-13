@@ -44,10 +44,10 @@ The data source used for our case study is FitBit Fitness Tracker Data. This dat
 ![library Bellabeat](imagesBellabeat/libraryB.png)
 
 ##### Read Files
-> activity<-read_csv("/cloud/project/Fitabase Data/dailyActivity_merged.csv")
-> hrIntensities<-read_csv("hourlyIntensities_merged.csv")
-> calories <- read_csv("dailyCalories_merged.csv")
-> intensity <- read_csv("dailyIntensities_merged.csv")
+> activity<-read_csv("/cloud/project/Fitabase Data/dailyActivity_merged.csv")  
+> hrIntensities<-read_csv("hourlyIntensities_merged.csv")  
+> calories <- read_csv("dailyCalories_merged.csv")  
+> intensity <- read_csv("dailyIntensities_merged.csv")  
 > steps <- read_csv("dailySteps_merged.csv")
 
 ##### Formatting date and time from the files read
