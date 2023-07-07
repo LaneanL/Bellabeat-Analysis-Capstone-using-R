@@ -208,7 +208,7 @@ Plot
 
 
 Findings:
-Most active hours are during work hours of 10 am to 2pm. There is a decline in intensity at 3 pm then increases between 4 pm to 7 pm; at which the highest intensity is between 5p and 7 pm within 24 hours. Granted Sedentary Minutes is the highest, there was an average of 13.56 fairly active minutes and 21.16 very active minutes. An average of 2304 calories per day, the women have met the number of calories to maintain or lose weight and have met the daily recommended minutes of intensity (exercise) of 30 minutes.
+Most active hours are during work hours of 10 am to 2pm. There is a decline in intensity at 3 pm then increases between 4 pm to 7 pm; at which the highest intensity is between 5p and 7 pm within 24 hours. Granted Sedentary Minutes is the highest, there was an average of 13.56 fairly active minutes and 21.16 very active minutes. An average of 2304 calories per day were burned thus meeting the number of calories to maintain or lose weight as well as attaining the daily recommended minutes of intensity (exercise) of 30 minutes.
 
 *Sedentary Minutes vs. Calories
 > ggplot(data=activity, aes(x=SedentaryMinutes, y=Calories)) +
@@ -235,8 +235,8 @@ The rate of change of Calories for Very Active minutes is more in comparison to 
  
 ## Recommendations
 
-Based on the data the sedentary minutes are consistent with women working an 8 hour job, receiving about 7 hours of sleep. There is increase in activity after hours. Growth for the company may include:
-* alerts to move during working hours decreasing sedentary minutes and increasing burned calorie. 
+Based on the data the sedentary minutes are consistent with women working an 8 hour job and receiving about 7 hours of sleep. There is increase in activity after hours. Growth for the company may include:
+* alerts encouraging movement during working hours focused on decreasing sedentary minutes and increasing burned calories. 
 * Taking a break to walk, hydrate, and meditate. Introduce personal goals whether to maintain weight or lose weight. 
 * Develop alerts that support the weight goals. 
 * Consistent monitoring of the goal and alerting whether on track for the day.
